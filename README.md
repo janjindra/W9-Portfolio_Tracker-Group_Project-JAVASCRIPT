@@ -12,7 +12,7 @@ The project is built using:
 * Additional libraries used: Vue CLI, Express, HighCharts, G-Charts, SyncFusion, Marquee, Bootstrap
 The application is using Financial Modeling Prep API as a source of stock data: https://financialmodelingprep.com/developer/docs/
 
-![Alt text](./public/images/)
+![Alt text](./PortfolioTracker.png)
 
 ## User interaction / journey
 #### Search a stock
